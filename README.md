@@ -53,13 +53,11 @@ python app.py
 5. Continue the conversation naturally.
 
 ## Screenshots
-<img width="1512" alt="Screenshot 2025-04-02 at 3 08 22 PM" src="https://github.com/user-attachments/assets/085cd0a6-5ab3-43de-8e49-191617976a9a" />
+![Screenshot 2025-04-02 211302](https://github.com/user-attachments/assets/be658fb1-1f72-4da2-a9e1-211783b4ca40)
+
 
 ## Contribution
 Contributions are welcome! Feel free to submit issues and pull requests to improve the project.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
-For inquiries, reach out to [oldmankokikumar@gmail.com].
+For inquiries, feel free to reach out
