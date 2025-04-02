@@ -53,8 +53,8 @@ python app.py
 5. Continue the conversation naturally.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/34354121-15f1-4cb1-a40b-aae97f65f589)
-![image](https://github.com/user-attachments/assets/8585fbc8-4466-4304-b86b-12818323a2a6)
+![Screenshot 2025-04-02 210747](https://github.com/user-attachments/assets/302a94c6-8aca-44f9-af5b-293dff48a8a3)
+
 
 
 
