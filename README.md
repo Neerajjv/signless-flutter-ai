@@ -53,7 +53,11 @@ python app.py
 5. Continue the conversation naturally.
 
 ## Screenshots
-![Screenshot 2025-04-02 211302](https://github.com/user-attachments/assets/be658fb1-1f72-4da2-a9e1-211783b4ca40)
+![image](https://github.com/user-attachments/assets/34354121-15f1-4cb1-a40b-aae97f65f589)
+![image](https://github.com/user-attachments/assets/8585fbc8-4466-4304-b86b-12818323a2a6)
+
+
+
 
 
 ## Contribution
