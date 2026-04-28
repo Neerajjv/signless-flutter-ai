@@ -27,23 +27,8 @@
 5. User selects a response, which is then spoken aloud.
 6. System resets and continues listening for further conversations.
 
-## Installation & Setup
-### Prerequisites
-- Python 3.x
-- Required libraries: SpeechRecognition, Transformers, Text-to-Speech API, etc.
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/Project-SIGN-LESS.git
-cd Project-SIGN-LESS
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python app.py
-```
 
 ## Usage
 1. Run the application.
